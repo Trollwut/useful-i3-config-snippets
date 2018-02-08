@@ -13,3 +13,5 @@ Get your MAC address for your device and replace it in the following code (bind 
         bindsym k exec pactl set-sink-volume bluez_sink.<MAC ADDRESS> +5%
         bindsym j exec pactl set-sink-volume bluez_sink.<MAC ADDRESS> -5%
     }
+
+([Source](https://www.reddit.com/r/i3wm/comments/7vypgx/what_are_your_handy_custom_keybindings_2/dtx95oz/))
